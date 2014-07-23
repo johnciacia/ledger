@@ -1,0 +1,66 @@
+body {
+  background-color: #f7f7f7;
+  padding: 70px 0;
+}
+
+.row {
+  background-color: #FFF;
+  margin: 20px 0 40px 0;
+}
+
+.main {
+  background-color: #FFF;
+}
+
+.main div {
+  border: 1px solid #eee;
+  padding-top:15px;
+  padding-bottom:15px;
+}
+
+.main h1 {
+  font-weight: 100;
+  margin-top: 0px;
+}
+
+.main p {
+  font-weight: 200;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+header .navbar-default {
+  background-color: #5bd4b6;
+  color: #fff;
+  border-radius: 0px;
+  border: 0px;
+}
+
+.main i {
+  font-weight: 200;
+}
+
+footer {
+  color: #999;
+}
+
+.navbar-default .navbar-brand {
+  color: #fff;
+}
+.navbar-default .navbar-nav>li a {
+  color: #fff;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+  color: #fff;
+  background-color: transparent;
+}
+
+tr.expand {
+  cursor: pointer;
+}
+
+p.description {
+  font-size: 0.85em;
+  color: #666;
+  padding-left: 20px;
+}
