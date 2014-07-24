@@ -47,7 +47,7 @@
 
 @section('content')
 <div class="row text-center">
-	<h1>Welcome to Balances</h1>
+	<h1>Welcome to Ledger</h1>
 
 	<h2>Flexible. Powerful. Customizable.</h2>
 	<p>
